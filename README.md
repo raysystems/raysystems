@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying **IT Enginner**
 
-- 📫 How to reach me **contact@marco-dev.pt**
+- 📫 How to reach me **marco.ferreira@engenheiros.pt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
