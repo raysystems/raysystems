@@ -107,32 +107,7 @@ website:    marcodiogo.com
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raysystems&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raysystems&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=raysystems&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=raysystems&no-frame=true&margin-w=8&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
-</div>
 
 ---
 
