@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=200&section=header&text=RaySystems&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=IT%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00d4ff&height=200&section=header&text=Marco%20Diogo&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20CyberSecurity%20Enthusiast%20%7C%20ML%20Researcher&descAlignY=58&descSize=16" width="100%"/>
 
 <br/>
 
@@ -9,6 +9,9 @@
 </a>
 <a href="https://x.com/raysystems_">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+</a>
+<a href="https://marcodiogo.com">
+  <img src="https://img.shields.io/badge/marcodiogo.com-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=raysystems&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 
@@ -19,10 +22,17 @@
 ## 🚀 About Me
 
 ```yaml
-name:     RaySystems
-role:     IT Engineer & Full Stack Developer
-focus:    Web Development · Systems · Automation
-always:   Learning something new
+name:       Marco Diogo  (RaySystems)
+role:       Data Engineer
+education:  MSc — Thesis: Machine Learning applied to CyberSecurity
+focus:
+  - Data Engineering & Pipelines
+  - CyberSecurity & Threat Detection
+  - Machine Learning & AI
+  - Web Development & Systems
+  - Networking & Automation
+always:     Learning something new
+website:    marcodiogo.com
 ```
 
 ---
@@ -59,6 +69,22 @@ always:   Learning something new
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
+### 🤖 Data & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+### 🔐 CyberSecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -94,7 +120,7 @@ always:   Learning something new
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raysystems&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=raysystems&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -104,7 +130,7 @@ always:   Learning something new
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=raysystems&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=raysystems&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
 
 </div>
 
